@@ -1,0 +1,6 @@
+#ArtistGallery {margin: auto;}
+#ArtistGallery .gallery-item {float: left;text-align: center;margin: 0 0;}
+#ArtistGallery img {border: 2px solid #cfcfcf;max-width: 90%; height: auto;padding: 5%;border-radius: 3px;box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);}
+#ArtistGallery dd {width:90%;margin: 0 5% 0 5%}
+.gallery-item a {width:90%;color: #9f9f9f;}
+.pp_description span {padding-right: 3%;}
